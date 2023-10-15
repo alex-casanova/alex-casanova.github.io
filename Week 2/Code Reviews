@@ -9,7 +9,7 @@
   and cohesion with the work of other team members.
 
 -When and how does it occur?
-	In my research, I ran into a few conflicting answers to this question. 
+  In my research, I ran into a few conflicting answers to this question. 
   Some people claim that code reviews should be done when blacks of code are completed and ready to be submitted. 
   Others – those I would tend to agree with more – say that code reviews should be done more frequently – even after the development of a few lines of code. 
   Better projects tend to result from more frequent, more relevant code reviews – the development of a small module, for example,
