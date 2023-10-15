@@ -1,24 +1,24 @@
 -What is code review?
-  Code review is the process of working with another person (or team of people) to find issues with code, 
-  determine any non-functional or non-standard code, and apply a coding team’s best practices to code that has been developed.
+    Code review is the process of working with another person (or team of people) to find issues with code, 
+    determine any non-functional or non-standard code, and apply a coding team’s best practices to code that has been developed.
 
 -Why is it an important practice for computer science professionals?
-  Code reviews are important to computer science professionals for several important reasons. 
-  The ability to have others look over your code leaves room for a team to have important input on the work of others, and vice versa. 
-  Having a strong team focused on collaboration can ensure that code is of a high quality, with fewer errors, improved efficiency, 
-  and cohesion with the work of other team members.
+    Code reviews are important to computer science professionals for several important reasons. 
+    The ability to have others look over your code leaves room for a team to have important input on the work of others, and vice versa. 
+    Having a strong team focused on collaboration can ensure that code is of a high quality, with fewer errors, improved efficiency, 
+    and cohesion with the work of other team members.
 
 -When and how does it occur?
-  In my research, I ran into a few conflicting answers to this question. 
-  Some people claim that code reviews should be done when blacks of code are completed and ready to be submitted. 
-  Others – those I would tend to agree with more – say that code reviews should be done more frequently – even after the development of a few lines of code. 
-  Better projects tend to result from more frequent, more relevant code reviews – the development of a small module, for example,
-  may need a single code review upon completion, but a larger segment of code could entail multiple code reviews to ensure that it all runs smoothly, 
-  performs efficiently, and meets the team’s design standards.
-  Code reviews are often submitted into a pool of code reviews, where dedicated reviewers look over the code and provide feedback, 
-  with recommended changes and comments regarding the code and its effects.
+    In my research, I ran into a few conflicting answers to this question. 
+    Some people claim that code reviews should be done when blacks of code are completed and ready to be submitted. 
+    Others – those I would tend to agree with more – say that code reviews should be done more frequently – even after the development of a few lines of code. 
+    Better projects tend to result from more frequent, more relevant code reviews – the development of a small module, for example,
+    may need a single code review upon completion, but a larger segment of code could entail multiple code reviews to ensure that it all runs smoothly, 
+    performs efficiently, and meets the team’s design standards.
+    Code reviews are often submitted into a pool of code reviews, where dedicated reviewers look over the code and provide feedback, 
+    with recommended changes and comments regarding the code and its effects.
 
 -What are some code review best practices that you would advocate?
-  I would advocate for the communication and team collaboration that code reviews provide. 
-  Personally, I would advocate for more frequent code reviews, especially for new developers or large teams. 
-  This ensures that the quality of the work stays consistent throughout the development process.
+    I would advocate for the communication and team collaboration that code reviews provide. 
+    Personally, I would advocate for more frequent code reviews, especially for new developers or large teams. 
+    This ensures that the quality of the work stays consistent throughout the development process.
