@@ -1,0 +1,27 @@
+Computer Science Trends and Artifact Update
+The Computer Science space is known for its continuous evolution. 
+Throughout the last 4 decades, computer science has evolved from a niche industry into the backbone of modern society. 
+Two recent trends that I found in my research, Artificial Intelligence (AI) and Virtual Reality (VR), hope to continue pushing the boundary of what computers are capable of.
+
+Artificial intelligence or AI, is the process of developing algorithms and programs to accomplish tasks with minimal user input, typically involving the use of previous data to generate new data. 
+This is typically done by feeding data from an existing data source into a software model. 
+The model takes a series of data as an input, and generates an output that it expects will generate similar data. 
+The developer can score these outputs, and higher scoring data is used to further generate new data. This process is known as training. 
+Trained AI models can produce incredible results, and many companies are using these models as the foundation of their business. 
+As a hopeful for a development position in a Big Tech company, I’ll have to be familiar with concepts in AI, as all Big Tech companies are currently working on leveraging AI to make their products better.
+
+
+The second trend I researched is Virtual Reality, or VR. VR aims to create digital worlds, in which people can digitally perform tasks.
+A large section of this space is dedicated to gaming, where characters can be controlled through controllers which can generate more realistic inputs. 
+This adds a new level of immersion to gaming, where players wear a variety of controllers and glasses to get a better experience in a game world. 
+Knowledge of VR will be important to my journey as a software developer, as companies like Meta are using VR to create new experiences for their users.
+
+
+Provide an update to your instructor on your progress with each category of the artifacts for the ePortfolio:
+•	Software design/engineering – Phase 4
+      Built out functions for generating records and CRUD functionality to Database Tables
+      Still working on implementing more functions for the classes to work together (Add Appts to Contacts, Tasks to Appts, etc.) 
+•	Algorithms and data structure – Phase 3
+      Changed record structure from objects to JSON records 
+•	Databases
+      Database is up and running, and MongoDB is showing JSON records populate as they are created.
