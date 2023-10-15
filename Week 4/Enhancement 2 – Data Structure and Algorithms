@@ -1,0 +1,25 @@
+Enhancement 2 – Data Structure and Algorithms
+
+This artifact was the creation of JSON records for each class, Appts, Tasks and Contacts. 
+I then provided full CRUD functionality for records in the database. I finished creation of this artifact on 9/22/2023.
+The change from static Java classes with Singleton Classes for storing data to a MongoDB database storing JSON records was chosen for its scalability. 
+This artifact shows my ability to solve complex programming problems through multiple approaches. 
+This helps to showcase my ability to program for diverse audiences, and supports organizational decision making by ensuring that multiple approaches are available for the storage, updating, and deletion of records. 
+The artifact improves my project by removing the need for Singleton classes, meaning better scalability and efficiency.
+
+Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans? 
+•	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+      This enhancement shows my ability to translate existing code into a new format, namely form Java Objects to Python Objects, then to JSON records in a MongoDB database. Each of these approaches has its own benefits, but if this application were to go into full production at scale for an organization, I would likely choose this method to support scaling and collaboration.
+•	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+      By further commenting my code, and adding detailed descriptions to each class, my code will be easier to read, and the goals of the project are more effectively communicated.
+•	Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+      Instead of 6 Java files, this project has been consolidated into a single Python file, with classes to generate records, and a database created to store records, instead of separate files for each data type, and the removal of Singleton classes. This change leads to more efficient, scalable code.
+•	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry- specific goals
+      Many companies have opted to move away from Singleton classes in lieu of databases. This allows programs to pull data from a persistent, scalable location. This approach is more appealing to companies who intend to store many records, as the need for a class keeping track of all records is not easily scalable.
+•	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+      Not much focus on Security in this module, as it mostly focuses on building up the base code.
+
+Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+•	I really liked working on this artifact. The ability to generate JSON records in this way, and see them populating into a MongoDB database was very rewarding. 
+  No major challenges in the implementation, but I did have to do some refresher research into using MongoDB through Python.
+
