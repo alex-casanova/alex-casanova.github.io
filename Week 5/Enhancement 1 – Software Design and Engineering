@@ -1,0 +1,17 @@
+Enhancement 1 – Software Design and Engineering
+1.	Briefly describe the artifact. What is it? When was it created?
+      This artifact is the implementation of a MongoDB database. This artifact was created on 10/1/2023.
+2.	Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved? 
+      The artifact improved my project by allowing for persistent record storage. Previously, the project relied in Singleton Classes, which are not persistent. This showcases my ability to solve technical problems with new solutions, and my ability to code out projects which have full CRUD functionality to a database.
+3.	Did you meet the course objectives you planned to meet with this enhancement in Module Four?
+    •	Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+          Instead of 6 Java files, this project has been consolidated into a single Python file, with a database created to store records, instead of separate files for each data type, and the removal of Singleton classes. This change leads to more efficient, scalable code.
+    •	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry- specific goals
+          Many companies have opted to move away from Singleton classes in lieu of databases. This allows programs to pull data from a persistent, scalable location. This approach is more appealing to companies who intend to store many records, as the need for a class keeping track of all records is not easily scalable.
+    •	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+          Not much focus on Security in this module, as it mostly focuses on building up the base code.
+
+4.	Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+      The main challenge I faced was setting the environment up to program with new Python code, transferring all functionality into Python from another language, and implementing a database.
+
+
