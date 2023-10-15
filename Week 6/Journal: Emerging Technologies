@@ -1,0 +1,13 @@
+Journal: Emerging Technologies
+	Computer Science is an ever-changing field, and new technologies are constantly being developed to make drastic changes, including those which affect people’s day-to-day lives. Two technologies which have emerged lately to great impact to the world around us include blockchain technology and cloud computing. 
+Blockchain technology has a huge influence on many aspects of our lives. Blockchain technology is a practice of generating records by computing ledgers across a distributed network of computers. This platform provides benefits to several industries, by removing the need for centralized systems. This decentralization led to the development of the first blockchain, Bitcoin, as a decentralized currency in 2009, as a result of the 2008 financial crash. The practice of decentralization has been a model for the Computer Science space for a while now, and has proven successful in changing the way several industries do business, including in the financial and medical industries. This technology will be important to my career as a software engineer, as the increasingly pervasive technology becomes central to more and more tech companies.
+Another central technology which has drastically altered how companies do business is Cloud Computing. As internet speeds increase globally,  companies have sprouted up to offer companies virtual resources, hosted on their premises rather than their customers’.  This paradigm has drastically changed how companies handle their compute resources, with an increased tendency to rent off-site resources rather than purchasing additional servers and computers. These compute resources are then able to be hosted, managed and maintained by a separate company. This has led to leaner IT teams for companies across the board, with many companies choosing to outsource all of their compute resources to third-party companies. While this technology doesn’t drastically change the technology that users have available, it has completely shifted where and how companies choose to allocate computing resources for their applications and servers.
+Part Two
+No changes this week, due to me being on vacation. Here is the current status of my project:
+•	Software design/engineering – Phase 4
+    Built out functions for generating records and CRUD functionality to Database Tables
+    Still working on implementing more functions for the classes to work together (Add Appts to Contacts, Tasks to Appts, etc.) 
+•	Algorithms and data structure – Phase 3
+    Changed record structure from objects to JSON records 
+•	Databases
+    Database is up and running, and MongoDB is showing JSON records populate as they are created.
