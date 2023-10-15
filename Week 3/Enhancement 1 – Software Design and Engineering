@@ -1,0 +1,20 @@
+Enhancement 1 – Software Design and Engineering
+- Briefly describe the artifact. What is it? When was it created?
+      This artifact is a re-write of an existing project, from Java to Python. It was created as part of my Capstone Project in Sept, 2023.
+- Justify the inclusion of the artifact in your ePortfolio. 
+      The artifact was improved by fully rewriting all functionality into Python. This allows me to expand the functionality of the app more easily. I was particularly interested in implementing Jupyter Notebooks, in order to test and develop the project more effectively. While this re-write doesn’t serve much to highlight my skills, it enables the development of additional features that will, such as my database implementation and web interface.
+- Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans? 
+    •	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+          This enhancement shows my ability to translate existing code into a new environment, Jupyter Notebooks. This skill is crucial in Computer Science Teams, as new technologies and platforms mean enhanced collaboration and more effective programming. Migrating this code between environments means effectively translating all functionality into a new language, while maintaining serviceability and ensuring that developers clearly understand previously developed work, while being able to make effective changes.
+    •	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+          By further commenting my code, and adding detailed descriptions to each class, my code will be easier to read, and the goals of the project are more effectively communicated.
+    •	Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+          Instead of 6 Java files, this project has been consolidated into a single Python file, with a database created to store records, instead of separate files for each data type, and the removal of Singleton classes. This change leads to more efficient, scalable code.
+    •	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry- specific goals
+          Many companies have opted to move away from Singleton classes in lieu of databases. This allows programs to pull data from a persistent, scalable location. This approach is more appealing to companies who intend to store many records, as the need for a class keeping track of all records is not easily scalable.
+    •	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+          Not much focus on Security in this module, as it mostly focuses on building up the base code.
+4.	Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+    The main challenge I faced was setting the environment up to program with new Python code, 
+    transferring all functionality into Python from another language, and implementing a database.
+

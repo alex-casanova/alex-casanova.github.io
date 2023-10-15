@@ -1,0 +1,24 @@
+Journal – Marketing with ePortfolios and Artifact update
+
+Part One
+	ePortfolios present a great opportunity for students and prospective employees to showcase their skills and projects to employers. 
+	By showing examples of what they’ve worked on in the past, ePortfolio users can prove that they’ve contributed valuable work to a project, whether on their own, or as part of a team. 
+	This allows employers to make better decisions on who to select for roles, where the experience displayed is similar to the experience they are searching for in a candidate. 
+	While ePortfolios are a valuable tool, they present risks to their users as well. 
+	The first of these challenges is the concept of publishing your work in a front-facing setting. 
+	This makes code available to be seen by other people, which can be exploited. 
+	Copying code from portfolios into other projects without the permission of the poster is a serious problem, 
+	as developers spend hard work developing the relevant software. 
+	However, limiting the risk of this can be done by segmenting code into smaller pieces, and only highlighting parts of a whole project as an ePortfolio. 
+	It is also important to carefully consider who the ePortfolio is made available to. 
+	As an example, it is likely worth hiding the contents of an ePortfolio from anyone except those making relevant hiring decisions. 
+
+Part Two
+• Software design/engineering – Stage 2
+	The Python re-write is ongoing, and is in stage 2. 
+	The existing functionality has been re-written into Python, but many features have yet to be added as part of the web interface and database sections of the project.
+• Algorithms and data structures – Stage 2
+	I have changed out the Singleton classes in my code for constructors of database records.
+• Databases – Stage 2
+	The database has not yet been constructed. Once it has, I will implement it and ensure functionality. 
+
