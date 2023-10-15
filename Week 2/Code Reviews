@@ -2,7 +2,7 @@
   Code review is the process of working with another person (or team of people) to find issues with code, 
   determine any non-functional or non-standard code, and apply a coding team’s best practices to code that has been developed.
 •	Why is it an important practice for computer science professionals?
-  •	Code reviews are important to computer science professionals for several important reasons. 
+  	Code reviews are important to computer science professionals for several important reasons. 
   The ability to have others look over your code leaves room for a team to have important input on the work of others, and vice versa. 
   Having a strong team focused on collaboration can ensure that code is of a high quality, with fewer errors, improved efficiency, 
   and cohesion with the work of other team members.
